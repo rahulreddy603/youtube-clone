@@ -3,44 +3,44 @@ import React from "react";
 const commentsData = [
   {
     name: "Ashay",
-    text: "jiuhihihui",
+    text: "perfect",
     replies: [],
   },
   {
-    name: "Ak0nuji",
-    text: "hubjbuh hjblluh",
+    name: "Anjali",
+    text: "oops!excellent",
     replies: [
       {
-        name: "Aksnjii",
-        text: "Lorem ipsum dolor sit amet, consectetur adip",
+        name: "Hemant",
+        text: "Hiiii",
         replies: [],
       },
       {
-        name: "detele",
-        text: "Lorem ipsum dolor sit amet, consectetur adip",
+        name: "deva",
+        text: "motu -patslu",
         replies: [
           {
-            name: "backhgbjhvjh ",
-            text: "Lorem ipsum dolor sit amet, consectetur adip",
+            name: "backh ",
+            text: "i use this style",
             replies: [
               {
-                name: "Akshay Saini",
-                text: "Lorem ipsum dolor sit amet, consectetur adip",
+                name: "Raju Bhai",
+                text: "I don't like it",
                 replies: [
                   {
-                    name: "Akshay Saini",
-                    text: "Lorem ipsum dolor sit amet, consectetur adip",
+                    name: "Akshay santi",
+                    text: "nice",
                     replies: [
                       {
-                        name: "Akshay Saini",
-                        text: "Lorem ipsum dolor sit amet, consectetur adip",
+                        name: "Ram kempad",
+                        text: "I love you content sir",
                         replies: [],
                       },
                     ],
                   },
                   {
-                    name: "Akshay Saini",
-                    text: "Lorem ipsum dolor sit amet, consectetur adip",
+                    name: "Rahul Huchgond",
+                    text: "Nice Viedo",
                     replies: [],
                   },
                 ],
@@ -52,23 +52,23 @@ const commentsData = [
     ],
   },
   {
-    name: "Akshay Saini",
+    name: "tanya",
+    text: "best",
+    replies: [],
+  },
+  {
+    name: "RAHUl Huchgomd",
     text: "Lorem ipsum dolor sit amet, consectetur adip",
     replies: [],
   },
   {
-    name: "Akshay Saini",
-    text: "Lorem ipsum dolor sit amet, consectetur adip",
+    name: "RgJDFV",
+    text: "like this one",
     replies: [],
   },
   {
-    name: "Akshay Saini",
-    text: "Lorem ipsum dolor sit amet, consectetur adip",
-    replies: [],
-  },
-  {
-    name: "Akshay Saini",
-    text: "Lorem ipsum dolor sit amet, consectetur adip",
+    name: "Hanmant huch",
+    text: "loke your content",
     replies: [],
   },
 ];
