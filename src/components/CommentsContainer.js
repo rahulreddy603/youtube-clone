@@ -2,25 +2,25 @@ import React from "react";
 
 const commentsData = [
   {
-    name: "Akshay Saini",
-    text: "Lorem ipsum dolor sit amet, consectetur adip",
+    name: "Ashay",
+    text: "jiuhihihui",
     replies: [],
   },
   {
-    name: "Akshay Saini",
-    text: "Lorem ipsum dolor sit amet, consectetur adip",
+    name: "Ak0nuji",
+    text: "hubjbuh hjblluh",
     replies: [
       {
-        name: "Akshay Saini",
+        name: "Aksnjii",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [],
       },
       {
-        name: "Akshay Saini",
+        name: "detele",
         text: "Lorem ipsum dolor sit amet, consectetur adip",
         replies: [
           {
-            name: "Akshay Saini",
+            name: "backhgbjhvjh ",
             text: "Lorem ipsum dolor sit amet, consectetur adip",
             replies: [
               {
